@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Proyecto Final</string>
+    <string name="action_settings">Settings</string>
+    <string name="Texto_principal">Tips para mejorar la lectura (1° primaria)</string>
+    <string name="tips1">1- Entiendes más si al principio lees en voz alta</string>
+    <string name="tips2">2- Escribe tu nombre completo y tu dirección y lee la de tus amigos</string>
+    <string name="tips3">3- Haz un concurso para ver quién encuentra primero una palabra en los artículos que usas todos los días</string>
+    <string name="tips4">4- Pide que te lean un cuento</string>
+    <string name="tips5">5- En tu escuela o colonia, pregunta por tu biblioteca y busca un libro que te guste, platícales a tus papás de lo que estás leyendo</string>
+    <string name="tips6">5-Si no conoces una palabra que leíste, Búscala en el diccionario</string>
+
+    <string name="siguiente">Siguiente</string>
+    <string name="anterior">Anterior</string>
+</resources>
